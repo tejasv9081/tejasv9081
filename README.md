@@ -40,9 +40,10 @@ I'm a pre-final year Computer Science student at VIT Vellore, passionate about l
 Here are some of the projects I've worked on:
 
 - **E-Commerce Website:** A live e-commerce website created using Shopify and Liquid language, fully functional and animated. [View Project](https://swativijaivargie.com)
-- **KanBan Board** A visually intuitive Kanban Board built with React.js for seamless task management and tracking. [View Project](https://kanban-board-react-steel.vercel.app/)
+- **KanBan Board :** A visually intuitive Kanban Board built with React.js for seamless task management and tracking. [View Project](https://kanban-board-react-steel.vercel.app/)
+- **Color Palette :** 
+A dynamic color palette application built with React, Material-UI, and React Router, featuring drag-and-drop sorting, emoji selection, and form validation for seamless user experience. [View Project](https://5pnrrl.csb.app/palette/flat-ui-colors-dutch)
 - **ChatBot - Prometheus:** A groundbreaking PDF chatbot that captures meeting details and converts them into structured PDF files, facilitating easy post-meeting interactions. [View Demo](https://www.figma.com)
-
 - **Reddit API Web Scraping:** This project extracts actionable insights from the "learnpython" subreddit using text mining and machine learning. It includes data collection, preprocessing, identifying key posts, topic extraction, and visualization. [View Repository](https://github.com/tejasv9081/ReddIt_API_Webscrapping)
 
 ## 🎓 Education
