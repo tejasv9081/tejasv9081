@@ -71,7 +71,7 @@ Here are some of the projects I've worked on:
 Feel free to reach out if you'd like to collaborate, discuss a project, or just say hi!
 
 - **Location:** Jaipur, Rajasthan
-- **Phone:** +91 8000757837
+
 
 ---
 
