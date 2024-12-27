@@ -33,9 +33,7 @@ I'm a pre-final year Computer Science student at VIT Vellore, passionate about l
 **Machine Learning:**
 - TensorFlow, Keras, scikit-learn, PyTorch
 
-## 📈 GitHub Stats
 
-![Tejasv's GitHub stats](https://github-readme-stats.vercel.app/api?username=tejasv9081&show_icons=true&theme=radical)
 
 ## 🚀 Projects
 
