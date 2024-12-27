@@ -52,10 +52,6 @@ Here are some of the projects I've worked on:
   - Sep 2021 – July 2026
   - CGPA: 9.2
 
-- **Tilak Public School**
-  - CBSE XII
-  - Completed in 2021
-  - Percentage: 93.3%
 
 ## 🏆 Certifications
 
