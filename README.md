@@ -1,73 +1,98 @@
-# Hi there, I'm Tejasv Goyal! 👋
-
-**Web Developer | Problem Solver | Computer Science Student | Data Analyst**
-
-I'm a pre-final year Computer Science student at VIT Vellore, passionate about leveraging technology to create robust and innovative software solutions. With a strong foundation in various programming languages and full-stack development, I'm eager to apply my skills to real-world projects.
-
-- 🌐 **Portfolio:** [tejasv9081.github.io/Portfolio_Tejasv/](https://tejasv9081.github.io/Portfolio_Tejasv/)
-- 💼 **LinkedIn:** [linkedin.com/in/tejasv-goyal-036567225](https://www.linkedin.com/in/tejasv-goyal-036567225)
-- 📧 **Email:** tejasvgoyal2003@gmail.com
-
-## 🔧 Technologies & Tools
-
-**Languages:**
-- Java
-- C++
-- C
-- Python
-- SQL
-
-**Web Technologies:**
-- HTML, CSS, JavaScript
-- React.js, Angular.js
-- NodeJS , NPM, ExpressJS , NGINX
-- MongoDB , Oracle , PostgreSql
-
-**Tools:**
-- Git, Jupyter Notebook, MS Excel 
-- Shopify, WordPress, PostgreSQL
-
-**Data Analysis:**
-- Pandas, NumPy, Matplotlib, seaborn
-
-**Machine Learning:**
-- TensorFlow, Keras, scikit-learn, PyTorch
-
-
-
-## 🚀 Projects
-
-Here are some of the projects I've worked on:
-
-- **E-Commerce Website:** A live e-commerce website created using Shopify and Liquid language, fully functional and animated. [View Project](https://swativijaivargie.com)
-- **KanBan Board :** A visually intuitive Kanban Board built with React.js for seamless task management and tracking. [View Project](https://kanban-board-react-steel.vercel.app/)
-- **Color Palette :** 
-A dynamic color palette application built with React, Material-UI, and React Router, featuring drag-and-drop sorting, emoji selection, and form validation for seamless user experience. [View Project](https://5pnrrl.csb.app/palette/flat-ui-colors-dutch)
-- **ChatBot - Prometheus:** A groundbreaking PDF chatbot that captures meeting details and converts them into structured PDF files, facilitating easy post-meeting interactions. [View Demo](https://www.figma.com)
-- **Reddit API Web Scraping:** This project extracts actionable insights from the "learnpython" subreddit using text mining and machine learning. It includes data collection, preprocessing, identifying key posts, topic extraction, and visualization. [View Repository](https://github.com/tejasv9081/ReddIt_API_Webscrapping)
-
-## 🎓 Education
-
-- **Vellore Institute of Technology, Vellore**
-  - MTech Integrated Computer Science
-  - Sep 2021 – July 2026
-  - CGPA: 9.2
-
-
-## 🏆 Certifications
-
-- Microsoft: Azure AI-900 Fundamentals
-- Introduction to Front-End Development - Meta
-- Introduction to Programming Using Python - Udemy
-- Wildlife Ecology - NPTEL
-
-## 📫 Contact Me
-
-Feel free to reach out if you'd like to collaborate, discuss a project, or just say hi!
-
-- **Location:** Jaipur, Rajasthan
-
+Here's the **updated README** with a short **1-2 line description** for **Trip-Saathi** under **Projects** and the **tech stack moved under Skillset** instead of the project section. 🚀  
 
 ---
 
-*Let's connect and create something amazing together!*
+# **Hi there, I'm Tejasv Goyal! 👋**  
+
+**Web Developer | Problem Solver | Computer Science Student | Data Analyst**  
+
+I'm a pre-final year Computer Science student at **VIT Vellore**, passionate about leveraging technology to create robust and innovative software solutions. With a strong foundation in various programming languages and **full-stack development**, I'm eager to apply my skills to real-world projects.  
+
+- 🌐 **Portfolio:** [tejasv9081.github.io/Portfolio_Tejasv/](https://tejasv9081.github.io/Portfolio_Tejasv/)  
+- 💼 **LinkedIn:** [linkedin.com/in/tejasv-goyal-036567225](https://www.linkedin.com/in/tejasv-goyal-036567225)  
+- 📧 **Email:** tejasvgoyal2003@gmail.com  
+
+---
+
+## **🔧 Technologies & Tools**  
+
+### **Languages:**  
+- Java
+- c++
+- c
+- MySQL
+- Python
+### **Web Technologies:**  
+- HTML, CSS, JavaScript  
+- React.js, Angular.js  
+- Node.js, Express.js, NGINX  
+- MongoDB, PostgreSQL, Oracle  
+
+### **Tools & Frameworks:**  
+- Git, Jupyter Notebook, MS Excel  
+- Shopify, WordPress, PostgreSQL  
+- **HERE API**, **Google Gemini AI**, **Firebase**, **Google OAuth**, **Tailwind CSS**, **Vite**  
+
+### **Data Analysis & Machine Learning:**  
+- **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn  
+- **Machine Learning:** TensorFlow, Keras, scikit-learn, PyTorch  
+
+---
+
+## **🚀 Projects**  
+
+### **🔹 Trip-Saathi (AI-Based Trip Planner) 🌍**  
+An **AI-driven travel planner** that customizes itineraries based on user preferences such as **budget, duration, and companions**. Built with **HERE API** for places, **Google Gemini AI** for itinerary generation, and **Firebase** for data storage.  
+- **Live Project:** [Trip-Saathi](https://trip-saathi.vercel.app/)  
+
+### **🔹 E-Commerce Website 🛍️**  
+A **live e-commerce website** built with **Shopify** and **Liquid JS**, selling designer garments.  
+- **Live Project:** [View Project](https://swativijaivargie.com)  
+
+### **🔹 KanBan Board 📝**  
+A visually intuitive **Kanban Board** built with **React.js** for seamless task management.  
+- **Live Project:** [View Project](https://kanban-board-react-steel.vercel.app/)  
+
+### **🔹 Color Palette 🎨**  
+A dynamic color palette app using **React, Material-UI**, and **React Router** with drag-and-drop sorting.  
+- **Live Project:** [View Project](https://5pnrrl.csb.app/palette/flat-ui-colors-dutch)  
+
+### **🔹 ChatBot - Prometheus 🤖**  
+A **PDF chatbot** that captures meeting details and converts them into structured PDF files.  
+- **Demo:** [View Demo](https://www.figma.com)  
+
+### **🔹 Reddit API Web Scraping 📊**  
+Extracting actionable insights from the **"learnpython"** subreddit using text mining & ML.  
+- **GitHub Repo:** [View Repository](https://github.com/tejasv9081/ReddIt_API_Webscrapping)  
+
+---
+
+## **🎓 Education**  
+
+- **Vellore Institute of Technology, Vellore**  
+  - **MTech Integrated Computer Science**  
+  - **Sep 2021 – July 2026**  
+  - **CGPA:** 9.2  
+
+---
+
+## **🏆 Certifications**  
+
+- **Microsoft**: Azure AI-900 Fundamentals  
+- **Meta**: Introduction to Front-End Development  
+- **Udemy**: Introduction to Programming Using Python  
+- **NPTEL**: Wildlife Ecology  
+
+---
+
+## **📫 Contact Me**  
+
+📍 **Location:** Jaipur, Rajasthan  
+
+Feel free to reach out if you'd like to **collaborate, discuss a project, or just say hi!**  
+
+---
+
+🚀 *Let's connect and build amazing things together!* 💡  
+
+---
