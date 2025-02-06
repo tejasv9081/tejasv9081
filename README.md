@@ -8,7 +8,7 @@ Here's the **updated README** with a short **1-2 line description** for **Trip-S
 
 I'm a pre-final year Computer Science student at **VIT Vellore**, passionate about leveraging technology to create robust and innovative software solutions. With a strong foundation in various programming languages and **full-stack development**, I'm eager to apply my skills to real-world projects.  
 
-- 🌐 **Portfolio:** (https://portfolio-tejasv.vercel.app/) 
+- 🌐 **Portfolio:** https://portfolio-tejasv.vercel.app/ 
 - 💼 **LinkedIn:** [linkedin.com/in/tejasv-goyal-036567225](https://www.linkedin.com/in/tejasv-goyal-036567225)  
 - 📧 **Email:** tejasvgoyal2003@gmail.com  
 
