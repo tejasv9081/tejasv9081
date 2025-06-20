@@ -18,8 +18,9 @@ I'm a pre-final year Computer Science student at **VIT Vellore**, passionate abo
 
 ### **Languages:**  
 - Java
-- c++
-- c
+- C++
+- C
+- R
 - MySQL
 - Python
 ### **Web Technologies:**  
@@ -30,7 +31,8 @@ I'm a pre-final year Computer Science student at **VIT Vellore**, passionate abo
 
 ### **Tools & Frameworks:**  
 - Git, Jupyter Notebook, MS Excel  
-- Shopify, WordPress, PostgreSQL  
+- Shopify, WordPress, PostgreSQL
+- PowerBI,Tableau ,Qliksense
 - **HERE API**, **Google Gemini AI**, **Firebase**, **Google OAuth**, **Tailwind CSS**, **Vite**  
 
 ### **Data Analysis & Machine Learning:**  
@@ -43,8 +45,15 @@ I'm a pre-final year Computer Science student at **VIT Vellore**, passionate abo
 
 ### **🔹 Trip-Saathi (AI-Based Trip Planner) 🌍**  
 An **AI-driven travel planner** that customizes itineraries based on user preferences such as **budget, duration, and companions**. Built with **HERE API** for places, **Google Gemini AI** for itinerary generation, and **Firebase** for data storage.  
-- **Live Project:** [Trip-Saathi](https://trip-saathi.vercel.app/)  
-
+- **Live Project:** [Trip-Saathi](https://trip-saathi.vercel.app/)
+  
+### **🔹 Algorithmic Trading Indicator 🛍️**  
+**A generalized financial assets trading indicator** tested on the BTC-USDT cryptocurrency deployed on TradingView
+using Pine Script with Python backend to get Long and Short trade signals . Hyperparameter tuning of the LSTM model
+in TensorFlow to yield nearly accurate market indication .Ten successive trades from the signals led to a 20x increase in
+the initial investment.  
+- **Live Project:** [View Project](https://github.com/tejasv9081/Algorithmic-Trading-Indicator)
+  
 ### **🔹 E-Commerce Website 🛍️**  
 A **live e-commerce website** built with **Shopify** and **Liquid JS**, selling designer garments.  
 - **Live Project:** [View Project](https://swativijaivargie.com)  
