@@ -4,7 +4,7 @@ Here's the **updated README** with a short **1-2 line description** for **Trip-S
 
 # **Hi there, I'm Tejasv Goyal! 👋**  
 
-**Software Developer | Web Developer | Problem Solver | Computer Science Student | Data Analyst**  
+**Software Developer | Problem Solver | Web Developer | Computer Science Student | Data Analyst**  
 
 I'm a pre-final year Computer Science student at **VIT Vellore**, passionate about leveraging technology to create robust and innovative software solutions. With a strong foundation in various programming languages and **full-stack development**, I'm eager to apply my skills to real-world projects.  
 
