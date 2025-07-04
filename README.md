@@ -1,6 +1,3 @@
-Here's the **updated README** with a short **1-2 line description** for **Trip-Saathi** under **Projects** and the **tech stack moved under Skillset** instead of the project section. 🚀  
-
----
 
 # **Hi there, I'm Tejasv Goyal! 👋**  
 
